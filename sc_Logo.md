@@ -1,0 +1,11 @@
+{
+"contact": "https://github.com/shaanaliyev",
+"templates": [
+{
+"name": "SC_PLACE",
+"sources": ["https://cdn.discordapp.com/attachments/1131728527981555743/1132806255426142238/image.png"],
+"x": 2542,
+"y": 331
+}
+]
+}
