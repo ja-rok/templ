@@ -1,0 +1,35 @@
+{
+"contact": "https://github.com/shaanaliyev",
+"templates": [
+{
+"name": "SC_RSI_Logo_L",
+"sources": ["https://cdn.discordapp.com/attachments/1102589724343926844/1133088175192023081/RSI_Logo.png"],
+"x": 201,
+"y": 1976
+},
+{
+"name": "SC_RSI_Logo_R",
+"sources": ["https://cdn.discordapp.com/attachments/1102589724343926844/1133088175192023081/RSI_Logo.png"],
+"x": 1184,
+"y": 1976
+},
+{
+"name": "SC_Logo",
+"sources": ["https://cdn.discordapp.com/attachments/1102589724343926844/1133120348955607150/Star_Citizen_Pixel_Logo.png"],
+"x": 2542,
+"y": 337
+},
+{
+"name": "SC_Logo_mini",
+"sources": ["https://cdn.discordapp.com/attachments/1102589724343926844/1133044476030496778/SC_Mini2.png"],
+"x": 1936,
+"y": 129
+},
+{
+    "name": "XWing",
+    "sources": "https://place.staiy.live/xwing.png",
+    "x": 2512,
+    "y": 289
+   },
+]
+}
