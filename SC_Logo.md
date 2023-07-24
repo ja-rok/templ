@@ -4,7 +4,7 @@
 {
 "name": "SC_PLACE",
 "sources": ["https://cdn.discordapp.com/attachments/1102589724343926844/1133120348955607150/Star_Citizen_Pixel_Logo.png"],
-"x": 2678,
+"x": 2680,
 "y": 352
 }
 ]
