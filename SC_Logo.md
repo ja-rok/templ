@@ -3,7 +3,7 @@
 "templates": [
 {
 "name": "SC_PLACE",
-"sources": ["https://cdn.discordapp.com/attachments/1102589724343926844/1133118475146117290/Star_Citizen_Pixel_Logo_trans_border.png"],
+"sources": ["https://cdn.discordapp.com/attachments/1102589724343926844/1133120348955607150/Star_Citizen_Pixel_Logo.png"],
 "x": 2542,
 "y": 337
 }
